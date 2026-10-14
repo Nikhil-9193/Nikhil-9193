@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Nikhil! 👋
 
-<!--
-**Nikhil-9193/Nikhil-9193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA AI/ML Student
+💻 Aspiring Python Developer
+🤖 Exploring Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+I'm on a journey to learn programming, solve problems, and build useful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Learning
+
+- Python 🐍
+- Problem Solving 🧩
+- Artificial Intelligence 🤖
+- Machine Learning 🧠
+- Git & GitHub 🌐
+
+## 🚀 My Projects
+
+- 🐍 Python Mini Projects
+- 🤖 More projects coming soon!
+
+## 🎯 My Goals
+
+- Build real-world coding projects
+- Improve my Python skills
+- Explore AI and Machine Learning
+- Contribute to open-source projects
+
+## 📫 Connect With Me
+
+- GitHub: [@Nikhil-9193](https://github.com/Nikhil-9193)
+
+---
+
+⭐ *Learning every day, building one project at a time.*
